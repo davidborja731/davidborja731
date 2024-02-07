@@ -1,4 +1,4 @@
-<align center># Bienvenido a mi GITHUB 👋</align>
+# <align center>Bienvenido a mi GITHUB 👋</align>
 ![nano](https://media.tenor.com/Pz3fTiQp2A8AAAAM/f1-formula1.gif)
 
 <!--
