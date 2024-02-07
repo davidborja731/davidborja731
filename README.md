@@ -2,6 +2,7 @@
 
 <img src="https://media.tenor.com/Pz3fTiQp2A8AAAAM/f1-formula1.gif">
 
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 <!--
 **davidborja731/davidborja731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
