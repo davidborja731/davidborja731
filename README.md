@@ -1,5 +1,5 @@
 # Bienvenido a mi GITHUB 👋
-(https://media.tenor.com/Pz3fTiQp2A8AAAAM/f1-formula1.gif)
+![nano](https://media.tenor.com/Pz3fTiQp2A8AAAAM/f1-formula1.gif)
 
 <!--
 **davidborja731/davidborja731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
