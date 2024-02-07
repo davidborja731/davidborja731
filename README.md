@@ -1,8 +1,8 @@
-<h1 align="center">Bienvenido a mi GITHUB 👋</h1>
-
+<h1 align="center">Bienvenido a mi GITHUB 👋
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://media.tenor.com/Pz3fTiQp2A8AAAAM/f1-formula1.gif">
+</h1>
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 <!--
 **davidborja731/davidborja731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
