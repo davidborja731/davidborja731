@@ -1,5 +1,5 @@
-<h1 align="center">Bienvenido a mi GITHUB 👋
-<p></p>
+<h1 align="center">Bienvenido a mi GITHUB 👋</h1>
+
 <img src="https://media.tenor.com/Pz3fTiQp2A8AAAAM/f1-formula1.gif">
 
 <!--
